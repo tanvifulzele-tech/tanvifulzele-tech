@@ -1,4 +1,24 @@
-## Hi there 👋
+
+# Hi, I'm Tanvi Fulzele👋
+
+## About Me
+- 📊 Aspiring Data Analyst
+- 📈 Interested in data analysis and visualization
+- 🌱 Learning SQL, Excel, Python and Power BI
+- 🎯 Goal: Turn data into meaningful insights
+
+## Skills
+- Excel
+- SQL
+- Python
+- Power BI
+
+## Projects
+- More projects coming soon!
+
+## Connect With Me
+- LinkedIn: www.linkedin.com/in/tanvifulzele 
+
 
 <!--
 **tanvifulzele-tech/tanvifulzele-tech** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
